@@ -1,5 +1,7 @@
-#Teste em React utilizando Material-UI#
+### Teste em React utilizando Material-UI.
 
-npm i
+1. npm install
 
-npm start
+2. npm start
+
+Enjoy.
